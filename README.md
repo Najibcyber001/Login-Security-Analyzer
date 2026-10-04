@@ -31,6 +31,7 @@ Run the program from the terminal:
 
 ```bash
 python login_security_analyzer.py
+```
 
 ## Example Output
 
@@ -44,6 +45,7 @@ Failed logins: 3
 Login success rate: 62.50%
 Security status: Warning
 Timestamp: 2026-10-02 17:30:00
+```
 
 ## Technologies Used
 
@@ -63,6 +65,7 @@ Login-Security-Analyzer/
 ├── security_log.txt
 ├── .gitignore
 └── README.md
+```
 
 ## Future Improvements
 
@@ -76,7 +79,7 @@ Login-Security-Analyzer/
 
 ## Author
 
-Najib Muhammad Salis
+**Najib Muhammad Salis**
 
 Cybersecurity Student | Python & Networking Learner
 
